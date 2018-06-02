@@ -62,11 +62,11 @@ class Family extends Component {
                 <p className="legend">Cave Tubing</p>
             </div>
             <div>
-                <img src="./photos/boat.jpg" />
+                <img src="./photos/boat.JPG" />
                 <p className="legend">Boating</p>
             </div>
             <div>
-                <img src="./photos/zip.jpg" />
+                <img src="./photos/zip.JPG" />
                 <p className="legend">Zip Lining</p>
             </div>
             <div>
