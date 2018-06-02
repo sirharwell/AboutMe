@@ -19,7 +19,7 @@ class Work extends React.Component {
     return(
       <div>
       <Segment inverted textAlign='center' style={{
-        backgroundImage: `url(https://lh3.googleusercontent.com/xozwtcTAexOfoLmqvGjLmwt141ZfwsAGKJDAldLnfHOnc0msmNsjcoK7-sGuEAELkDoY8clHtNynwv-OkB6v8JJFzVS1BDfrhioGFZtCwj-Worcd65uvucxXDeJ0fwE6PXMgkz9N_Ueq3QjEYzLDaZLtCybvLDxAMlJH7ViQNnqwOfGt_98xfC0o44a_ABzyeHEx5sOexgsjiK91mpYEPWesdE1jzkkdZN2FTNuPnBY7pUWpUPovJOdt2x5fATY__oNRyf3HXIe3tsgMwQCzu6oQuidyj5vwzG8ug88V9h5IjqsRfS3YmGX51ncBIQooicZMfwPe6V8hqnkXG3uNy8pqzDgoT7T5Y4uehPGPajJ3ZNpNmaukwQ5hmSUtKXLv8iHSVyMDGBI76MEmCqgr9PrMFosakl8T8N2KfneCmMH5pkgxxUOVNNjDfl7V2KxyvCnsixM7XBcUIZQ1J4HVN8uti-5U6PNvZ9Tb3q9lDo2XrdGzibm5zX6RjiupTn28uNaENOPerTzEakmZSlNP7fMxmxN7U5rGZeF3r66wy9Mv3sa7kAVcI9r1cvwX1qi9cdl9tVF47yuJLLug9QS_Wzx6YzkMeSpHCzC1F944=w1012-h759-no)`, backgroundSize: " cover ", minHeight: 700, padding: '1em 0em' }} vertical
+        backgroundImage: `url(./photos/canduu.jpg)`, backgroundSize: " cover ", minHeight: 700, padding: '1em 0em' }} vertical
       >
         <Container text style={{marginTop:'30px'}}>
           <Segment style={{ backgroundColor: 'rgba(250, 250, 250, .0)', padding: '20px'}}>
@@ -96,7 +96,7 @@ class Work extends React.Component {
         </Image.Group>
           <Header as='h3' style={{ fontSize: '2em' }}>Different Companies, same job</Header>
           <p style={{ fontSize: '1.33em' }}>
-            I sold various telecom providers. I sold both thet major as well as regional companies. For example, Xfinity as well as Cincinnati Bell. We had requirements to hit conversion rates (sales per call) as well as maintaining a high level of costumer satisfaction and a rigurous QA requiremnt.
+            I sold various telecom providers. I sold for both major as well as regional companies. For example, big companies like Xfinity as well as small ones like Cincinnati Bell. We had requirements to hit conversion rates (sales per call) as well as maintaining a high level of customer satisfaction and a rigorous QA requirement.
             <br/>
             <br/>
           </p>
