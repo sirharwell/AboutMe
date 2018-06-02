@@ -50,7 +50,7 @@ class Family extends Component {
                     <p className="legend">"Baby Liam joins the family"</p>
                 </div>
                 <div>
-                    <img src="./photos/usie.jpg" />
+                    <img src="./photos/waterfall.jpg" />
                     <p className="legend">The Harwell Clan</p>
                 </div>
             </Carousel>
