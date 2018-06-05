@@ -81,6 +81,11 @@ class Family extends Component {
                 <img src="./photos/seattle.jpg" />
                 <p className="legend">Seattle</p>
             </div>
+            <div>
+                <img src="./photos/4wheel.jpg" />
+                <p className="legend">4 Wheeling</p>
+            </div>
+
 
             </Carousel>
             </Segment>
