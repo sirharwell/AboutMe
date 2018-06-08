@@ -82,7 +82,7 @@ class Family extends Component {
                 <p className="legend">Seattle</p>
             </div>
             <div>
-                <img src="./photos/4wheel.jpg" />
+                <img src="./photos/4wheel.JPG" />
                 <p className="legend">4 Wheeling</p>
             </div>
 
