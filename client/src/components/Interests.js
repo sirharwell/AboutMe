@@ -85,8 +85,10 @@ class Family extends Component {
                 <img src="./photos/4wheel.JPG" />
                 <p className="legend">4 Wheeling</p>
             </div>
-
-
+            <div>
+                <img src="./photos/fountain.jpg" />
+                <p className="legend">Trevi Fountain</p>
+            </div>
             </Carousel>
             </Segment>
             </Grid.Column>
