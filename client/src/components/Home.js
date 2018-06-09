@@ -37,8 +37,7 @@ class Home extends React.Component {
               </p>
               <Header as='h3' style={{ fontSize: '2em' }}>I have been married for 8 years</Header>
               <p style={{ fontSize: '1.33em' }}>
-                She's the super coolest, you can learn more about her 
-              <a href='/family'>here.</a></p>
+                She's the super coolest, you can learn more about her <a href='/family'> here.</a></p>
             </Grid.Column>
             <Grid.Column floated='right' width={6}>
               <Image
